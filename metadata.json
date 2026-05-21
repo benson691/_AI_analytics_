@@ -1,0 +1,6 @@
+{
+  "name": "AI 數據分析與洞察工具",
+  "description": "一個功能強大的 AI 數據分析與洞察工具，支援貼上 CSV 資料、自動生成動態圖表與資料表格、並透過 Google Gemini 生成專業的繁體中文數據洞察與分析報告。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
